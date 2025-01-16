@@ -46,7 +46,7 @@ namespace _11_Working_with_Dates_and_Times
             Console.WriteLine(myBirthday.ToShortDateString());
             */
 
-            DateTime myBirthday = new DateTime(1998, 8, 26);
+            DateTime myBirthday = new DateTime(2005, 12, 28);
             TimeSpan myAge = DateTime.Now.Subtract(myBirthday);
             Console.WriteLine(myAge.TotalDays);
 
