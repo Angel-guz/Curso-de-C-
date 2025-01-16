@@ -10,8 +10,8 @@ namespace _12_Understanding_Classes
             {
                 Make = "Holden",
                 Model = "Cruze",
-                Year = 2014,
-                Colour = "Red"
+                Year = 2025,
+                Colour = "Blue"
             };
 
             Console.WriteLine("{0} {1} {2} {3}",
